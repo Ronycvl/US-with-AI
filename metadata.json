@@ -1,0 +1,8 @@
+{
+  "name": "Sludge Disposal Logistics Tracker",
+  "description": "AI-assisted biosolids disposal scheduling, mobile tank level logging, regulatory manifest validation, and 3-year compliance records for municipal wastewater treatment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
